@@ -10,7 +10,7 @@ This project involves building and deploying a Random Forest model for house ins
 **Encoding & Scaling:** Data was one-hot encoded using get_dummies, and standardized using a scaler saved as **"insurance_scaler2.pkl"** for future predictions.
 The final preprocessed dataset was saved as **"insurance_processed.csv"** for use in the machine learning pipeline.
 
-# **File Title : Insurance_Data_Cleaning.ipynb**
+# **File Title : Insurance_Model_Building.ipynb**
 
 **key Tasks:**
 **Machine Learning Model Creation:** The cleaned dataset ("insurance_processed.csv") was used to build a Random Forest Regressor model for predicting insurance charges.
